@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏻, Myself Rakesh Joshi</h1>
+<h2 align="center"> <a href = "https://therakeshjoshi.github.io/cv/"> Click here </a> </h2>
 <h3 align="center">CSE Engg. Student from Amravati, India</h3>
-
 - 🔭 I’m currently studying in **PRMIT&R**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Machine Learning and Data Science, Android Development using Kotlin, Ethical Hacking.**
